@@ -1,21 +1,15 @@
-MIT License
+Copyright (c) 2026 Team LUXUS (Jhon Lloyd M. Valencia, Maurenzio Franck M. Altamarino,
+Kyle Allen M. Abandia), Manuel S. Enverga University Foundation, Lucena City.
+All rights reserved.
 
-Copyright (c) 2026 Jhon Lloyd Valencia
+This repository and everything in it, including the source code, the clickable
+prototype, user interface designs, screenshots, pitch deck slides, the SILANGAN name
+and logo, and the documentation, are the proprietary work of Team LUXUS.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may view these materials, and run the prototype in a web browser, only to evaluate
+the SILANGAN entry to the Philippine Startup Challenge XI. You may not copy, modify,
+merge, publish, distribute, sublicense, sell, or use any part of them for any other
+purpose, commercial or otherwise, without prior written permission from Team LUXUS.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The prototype uses
+demo data only and is not financial or engineering advice.
