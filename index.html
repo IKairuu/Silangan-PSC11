@@ -3276,8 +3276,8 @@ function render(){
 S.preset=S.preset||'maria';
 /* ================= v3: light mode toggle (default light in this file; dark unchanged) ================= */
 Object.assign(IC_PATHS,{moon:'M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z'});
-const THEME_KEY='silangan-theme';
-S.theme=(()=>{ try{ return localStorage.getItem(THEME_KEY)||'light'; }catch(e){ return 'light'; } })();
+const THEME_KEY='silangan-theme-v2';
+S.theme=(()=>{ try{ return localStorage.getItem(THEME_KEY)||'dark'; }catch(e){ return 'dark'; } })();
 function applyTheme(){ document.documentElement.dataset.theme=S.theme; }
 const _shellV2=shell;
 shell=function(inner){
