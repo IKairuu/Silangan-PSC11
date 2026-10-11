@@ -4,9 +4,11 @@
 
 # SILANGAN
 
-**Know your power before you buy the sun.**
+**An AI-Powered Consumption Simulator Bridging Household Solar Feasibility Guidance and Government Demand-Side Energy Planning**
 
-An AI-assisted web platform that tells a Filipino family where its electricity goes, checks that against one real Meralco bill, and shows whether rooftop solar pays for its own home. The same answers, anonymized and with consent, show the city where solar pays but few have it.
+*Know your power before you buy the sun.*
+
+An AI-powered consumption simulator that tells a Filipino family where its electricity goes, checks that against one real Meralco bill, and shows whether rooftop solar pays for its own home. The same answers, anonymized and with consent, show the city where solar pays but few have it.
 
 [![PSC XI](https://img.shields.io/badge/Philippine%20Startup%20Challenge-XI%20%C2%B7%202026-FF9F1C?style=flat-square)](#team-luxus)
 [![Stage](https://img.shields.io/badge/Stage-Prototyping-FFC83D?style=flat-square)](#traction-and-roadmap)
@@ -58,7 +60,7 @@ An AI-assisted web platform that tells a Filipino family where its electricity g
 
 Philippine households now pay the highest electricity rates in Southeast Asia, yet very few homes have rooftop solar. Families cannot tell whether solar pays for their own house, and most of the advice they get comes from the companies selling the panels.
 
-**SILANGAN** answers that in about five minutes, in plain English or Filipino. A family adds its appliances, checks the estimate against one real Meralco bill, answers three roof questions, and sees what rooftop solar would cost, save and pay back on its own roof. **Helios**, the AI assistant, explains every result, while a transparent calculator computes every number. With the household's consent, anonymized results roll up by barangay, so the city can see where solar pays but few have it, and test subsidies before spending.
+**SILANGAN**, an AI-powered consumption simulator, answers that in about five minutes, in plain English or Filipino. A family adds its appliances, checks the estimate against one real Meralco bill, answers three roof questions, and sees what rooftop solar would cost, save and pay back on its own roof. **Helios**, the AI assistant, explains every result, while a transparent calculator computes every number. With the household's consent, anonymized results roll up by barangay, so the city can see where solar pays but few have it, and test subsidies before spending.
 
 Silangan is Team LUXUS's entry to the **Philippine Startup Challenge XI (2026)** of the Department of Information and Communications Technology. It is at the **Prototyping** stage: a clickable, non-functioning prototype and a 154-page Software Requirements Specification are complete. The first market is **Lucena City**, Quezon.
 
