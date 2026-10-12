@@ -309,6 +309,22 @@ Silangan-PSC11/
 │   ├── screens/          # Prototype screenshots used in this README
 │   ├── pitch-deck/       # PSC XI pitch deck slides
 │   └── logo/             # Official logo (dark and light backgrounds) and app mark
+├── backend/              # NestJS API (starter scaffold, in development)
+│   ├── src/
+│   │   ├── app.controller.ts
+│   │   ├── app.controller.spec.ts
+│   │   ├── app.module.ts
+│   │   ├── app.service.ts
+│   │   └── main.ts
+│   ├── test/
+│   │   ├── app.e2e-spec.ts
+│   │   └── jest-e2e.json
+│   ├── jest.config.ts
+│   ├── nest-cli.json
+│   ├── package.json
+│   ├── tsconfig.json
+│   ├── tsconfig.build.json
+│   └── README.md
 ├── LICENSE
 └── README.md
 ```
